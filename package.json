@@ -12,8 +12,10 @@
   },
   "dependencies": {
     "next": "^16.0.0",
+    "present": "^1.0.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "scripts": "^0.1.0",
     "server-only": "^0.0.1",
     "snowflake-sdk": "^3.4.0"
   },
