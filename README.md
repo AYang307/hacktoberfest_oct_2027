@@ -1,5 +1,7 @@
 # TerpLink
 
+Team 3 · `hacktoberfest_oct_2027`
+
 A mobile-first campus discovery demo built with Next.js App Router, TypeScript, Tailwind CSS, and native Pointer Events. One app, one dev command, no login or database.
 
 ## Run it
